@@ -32,7 +32,7 @@
 }
 
 /* Add a red background color to navbar links on hover */
-.navbar a:hover, .drop:hover .dropbtn {
+.navbar a:hover, .drop:click .dropbtn {
   background-color: white;
 }
 
