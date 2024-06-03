@@ -59,7 +59,7 @@
 
 /* Add a grey background color to drop links on hover */
 .drop-content a:hover {
-  background-color: #ddd;
+  background-color: white;
 }
 
 /* Show the drop menu on hover */
