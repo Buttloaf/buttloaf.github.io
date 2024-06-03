@@ -13,6 +13,8 @@
 .drop {
   float: left;
   overflow: hidden;
+  background-color: black;
+  color: white;
 }
 
 /* Dropdown button */
